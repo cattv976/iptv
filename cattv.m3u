@@ -537,7 +537,7 @@ https://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4681.png" group-title="ช่องกีฬาไทย",MONOMAX2 (88-hd)
 #EXTVLCOPT:http-referrer=:https://www.88-hd.com/
 https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/PL_Mono2.jpg" group-title="ช่องกีฬาไทย",MONOMAX2 (streamx-web)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4681.png" group-title="ช่องกีฬาไทย",MONOMAX2 (streamx-web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://stream-x.cc/
 https://love.uh6wzyncw9.workers.dev/lx-origin/th-aismax02_480/chunks.m3u8
