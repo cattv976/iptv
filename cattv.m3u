@@ -241,7 +241,7 @@ https://github.com/cattv976/documentary/raw/refs/heads/main/trueexploresci1.m3u8
 https://github.com/cattv976/documentary/raw/refs/heads/main/bbcearth1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvsmagazine.com/images/channels/lrg_130.jpg" group-title="ช่องสารคดี", BBCLifestyle
 #EXTVLCOPT:http-referrer=https://github.com/
-http://flussictv.ddns.net:9091/BBC_Lifestyle/index.m3u8
+https://github.com/cattv976/documentary/raw/refs/heads/main/bbclifestyle1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.multichannelsasia.com/wp-content/uploads/2015/11/OC_Logo2017_Primary-e1492590279375.png" group-title="ช่องสารคดี", OutDoor
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattv976/documentary/raw/refs/heads/main/outdoor.m3u8
