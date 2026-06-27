@@ -224,6 +224,9 @@ https://github.com/cattv976/documentary/raw/refs/heads/main/discoveryasia.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-history.png" group-title="ช่องสารคดี", History
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattv976/documentary/raw/refs/heads/main/history1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C19N84f9/IMG-2447.png" group-title="ช่องสารคดี", H2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattv976/documentary/raw/refs/heads/main/h2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="ช่องสารคดี", Animal Planet
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattv976/documentary/raw/refs/heads/main/animalplanet.m3u8
