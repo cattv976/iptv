@@ -88,7 +88,9 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 #KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="ช่องทีวีดิจิตอล", PPTV
-https://www.livedoomovies.com:4431/02_PPTVHD_720p/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0022/DASH/B0022.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8f678b1a8ee924da8dc2669b6defba2b&chunkHttps=true&tmid=B0007&tpbk=hziXHfHaGK2mcT40&rrt=1782794318&tmod=rfk&rsid=29b33362-9a63-4f2b-92cf-798a961fa074&tuid=68777c80c3&cdn=redfox-https&tdid=3c08c7778672f4f8a3d72a7655e91c7d&origin=anevia&tfa=f0-fc&tttl=1782880717
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TOPNEWS.PNG" group-title="ช่องทีวีดิจิตอล", TopNews
 http://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png" group-title="ช่องทีวีดิจิตอล", News1
