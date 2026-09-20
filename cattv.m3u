@@ -100,14 +100,17 @@ http://54c241893bf39.streamlock.net:1935/policetv/policetv/playlist.m3u8
 http://live.bangkokstream.com:19370/suwannabhumi/suwannabhumi.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="ช่องบันเทิง", HBO
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da901f885137d1f274dc7592762611ab:4d3536a7f0d996d6b013fc3dc1de7a3d
-https://mp3.ovp.ais.th:7111/live/eds/V0114/DNF/V0114.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/V0114/DNF/V0114.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjTwhdXEIDxfY0bPtTdFSPq%2Fj41Mc3QtBI2rA5vZRI7S2e
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง", HBOHits
-http://6395online.com:8080/live/Iptv6988/0905692638/134.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/V0116/DNF/V0116.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjT2ngGxc5DCSSgS6Msx500XX2Ybjm72D9n%2FaZuYviTa7d
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="ช่องบันเทิง", HBOSignature
-http://6395online.com:8080/live/Iptv6988/0905692638/135.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/V0117/DNF/V0117.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjT%2FFsR1rAcr3D6SM%2F1ok322do7oAAzbXiX64InLgJfKMv
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="ช่องบันเทิง", HBOFamily
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -121,11 +124,17 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 #KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="ช่องบันเทิง", Rock-Entertainment
-http://6395online.com:8080/live/Iptv6988/0905692638/139.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/V0165/DNF/V0165.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjT33%2BeJdkAb6VVICLkt0GohmN1N4s%2BnoXjoIsItGZ3XiV
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="ช่องบันเทิง", ROCKAction
-http://6395online.com:8080/live/Iptv6988/0905692638/140.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/V0166/DNF/V0166.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjTzvCZpCwtK1xD2gQYQf%2BR8wa3pz%2BMmCJwPP2XBMshS%2F%2F
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ช่องบันเทิง", Warnertv
-http://6395online.com:8080/live/Iptv6988/0905692638/130.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/X105/DNF/X105.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjT9vL5LwJcXW9zh3HU3NEY3hlaUUK%2F9yFZakzXF2Pxgmj
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="ช่องบันเทิง", Axn
 http://6395online.com:8080/live/Iptv6988/0905692638/129.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง", trueTHAIFILM
@@ -181,7 +190,9 @@ http://49.0.64.96:8007/IZAA
 http://49.0.64.96:8007/PING
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="ช่องสารคดี", Discovery
-http://6395online.com:8080/live/Iptv6988/0905692638/275.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/V0180/DNF/V0180.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjTyGhRKrc3Tve1dqAEIyhNf6N1N4s%2BnoXjoIsItGZ3XiV
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ช่องสารคดี", DiscoveryAsia
 http://6395online.com:8080/live/Iptv6988/0905692638/274.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-history.png" group-title="ช่องสารคดี", History
@@ -219,15 +230,25 @@ http://6395online.com:8080/live/Iptv6988/0905692638/139814.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="ช่องสารคดี", Samrujlok
-http://6395online.com:8080/live/Iptv6988/0905692638/295.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/V0151/DNF/V0151.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjT8bz%2BzhhaU7TdQGYt3llnEMQJ0pRVZYwQ96lDMEGR%2FHg
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="ช่องสารคดี", MySci
-http://6395online.com:8080/live/Iptv6988/0905692638/12194.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/V0152/DNF/V0152.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjTzX%2BQc3c51QF%2FbMrvZu1zBBNOOfLo1Pl%2ByqAtYRykVe3
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="ช่องสารคดี", Animal Show
-http://6395online.com:8080/live/Iptv6988/0905692638/280.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/V0153/DNF/V0153.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjTw1mPNt3ckZ%2BG%2BKB0ZZznNX2Ybjm72D9n%2FaZuYviTa7d
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="ช่องสารคดี", Khong Dee Thailand
-http://6395online.com:8080/live/Iptv6988/0905692638/140164.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/V0154/DNF/V0154.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjT5iJcMOJ3fK1nrOL4UvIzp4T3iFKQyDXya1p%2Ffcx%2B%2BXO
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="ช่องสารคดี", Thainess
-http://6395online.com:8080/live/Iptv6988/0905692638/228542.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/V0155/DNF/V0155.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjTydvdMgoStuQu5Ve0VZ%2Fj8pYXD0qc7jNeKGIcB68DAA2
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png" group-title="ช่องสารคดี", AMAZING
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://49.0.64.96:8007/AMAZING
@@ -460,10 +481,75 @@ http://6395online.com:8080/live/Iptv6988/0905692638/212.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattv976/sportthai/raw/refs/heads/main/nba.m3u8
-#EXTINF:-1 tvg-id="ch0000000000100002781" tvg-logo="https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20260901093955069632.png" group-title="AIS",เอเชียนเกมส์ 901
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20260901093955069632.png" group-title="AIS",เอเชียนเกมส์ 901
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG001/DNF/AG001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=
+#EXTINF:-1 tvg-id=" tvg-logo="https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20260901094020069633.png" group-title="AIS",เอเชียนเกมส์ 902
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
 https://mp3.ovp.ais.th:7111/live/eds/AG002/DNF/AG002.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjT443fqJ6B%2BdIIGGi0lfKlwNNOOfLo1Pl%2ByqAtYRykVe3
+#EXTINF:-1 tvg-id=" tvg-logo="https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20260901094040069634.png" group-title="AIS",เอเชียนเกมส์ 903
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG003/DNF/AG003.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjTw%2FKQN2pRYk3uBPhU3%2FSV96wVHFRcBnoxj7%2FSXd1flSp
+#EXTINF:-1 tvg-id=" tvg-logo="https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20260901094102069635.png" group-title="AIS",เอเชียนเกมส์ 904
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG004/DNF/AG004.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjT7fydQjjTu%2BUOSRAejgWJxH41Mc3QtBI2rA5vZRI7S2e
+#EXTINF:-1 tvg-id=" tvg-logo="https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20260901094213069636.png" group-title="AIS",เอเชียนเกมส์ 905
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG005/DNF/AG005.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjT46U9E2KW4dFMvFa%2BMhOtRHIKs%2BVKI828STdaRXT8zPM
+#EXTINF:-1 tvg-id=" tvg-logo="https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20260901094243069637.png" group-title="AIS",เอเชียนเกมส์ 906
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG006/DNF/AG006.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjTwDA9q%2F32F9Ka8CtRuSOS3gT3iFKQyDXya1p%2Ffcx%2B%2BXO
+#EXTINF:-1 tvg-id=" tvg-logo="https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20260901094302069638.png" group-title="AIS",เอเชียนเกมส์ 907
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG007/DNF/AG007.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjTz66JqRX462EZ3cQ%2FygAUCXmk6EqU8PtjiQ8CjEdYa8k
+#EXTINF:-1 tvg-id=" tvg-logo="https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20260901094321069639.png" group-title="AIS",เอเชียนเกมส์ 908
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG008/DNF/AG008.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjT8TMjKx8NSztFhriBh3eYJFNOOfLo1Pl%2ByqAtYRykVe3
+#EXTINF:-1 tvg-id=" tvg-logo="https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20260901094341069641.png" group-title="AIS",เอเชียนเกมส์ 909
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG009/DNF/AG009.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjTwTbNa0tUeOzMqLGzMNTyHuwVHFRcBnoxj7%2FSXd1flSp
+#EXTINF:-1 tvg-id=" tvg-logo="https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20260901094401069640.png" group-title="AIS",เอเชียนเกมส์ 910
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG010/DNF/AG010.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjT1Z07jSq6dkOtuwbJoGwjetNOOfLo1Pl%2ByqAtYRykVe3
+#EXTINF:-1 tvg-id=" tvg-logo="https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20260901094417069651.png" group-title="AIS",เอเชียนเกมส์ 911
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG011/DNF/AG011.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjT4fS6uRyoLSEjdByU%2BD5JyP2Ybjm72D9n%2FaZuYviTa7d
+#EXTINF:-1 tvg-id=" tvg-logo="https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20260901094435069652.png" group-title="AIS",เอเชียนเกมส์ 912
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG012/DNF/AG012.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjT%2FMHFVsM7rX%2FK9Z4%2BOqXZT5WYFKqip6OOzgzyIfCkJx8
+#EXTINF:-1 tvg-id=" tvg-logo="https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20260901094454069653.png" group-title="AIS",เอเชียนเกมส์ 913
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG013/DNF/AG013.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjT%2BqYm%2FAfCmIFsw2oHlOJTqxYXD0qc7jNeKGIcB68DAA2
+#EXTINF:-1 tvg-id=" tvg-logo="https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20260901094513069654.png" group-title="AIS",เอเชียนเกมส์ 914
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG014/DNF/AG014.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjTxB5vNQlD%2Fs%2FiOBbe7gx176wVHFRcBnoxj7%2FSXd1flSp
+#EXTINF:-1 tvg-id=" tvg-logo="https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20260901094534069655.png" group-title="AIS",เอเชียนเกมส์ 915
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG015/DNF/AG015.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjTwWfnYpUHmKByg7OFZCNm0GN1N4s%2BnoXjoIsItGZ3XiV
+#EXTINF:-1 tvg-id=" tvg-logo="https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20260901094556069656.png" group-title="AIS",เอเชียนเกมส์ 916
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG016/DNF/AG016.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjTzhri3cbZsMkZn%2B4IJsSqGtNOOfLo1Pl%2ByqAtYRykVe3
+#EXTINF:-1 tvg-id=" tvg-logo="https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20260901094614069657.png" group-title="AIS",เอเชียนเกมส์ 917
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG017/DNF/AG017.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=GgduOYywFUrCWbTs3nNjTyllbH1JTda0cVBeUwqxK8X41Mc3QtBI2rA5vZRI7S2e
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvFW6Krt0Q_G3ahG6I3_T2tifz9IEftLAdqw&s" group-title="ช่องกีฬาต่างประทศ",now SPORTS PREMIER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
