@@ -258,106 +258,66 @@ http://6395online.com:8080/live/Iptv6988/0905692638/369798.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-sports1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4680.png" group-title="ช่องกีฬาไทย",MONOMAX1 (github)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4680.png" group-title="ช่องกีฬาไทย",MONOMAX1 (dooballland)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-http://6395online.com:8080/live/Iptv6988/0905692638/391359.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4680.png" group-title="ช่องกีฬาไทย",MONOMAX1 (88-hd)
-#EXTVLCOPT:http-referrer=:https://www.88-hd.com/
-https://www.livedoomovies.com:4431/Monomax_PL_1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4680.png" group-title="ช่องกีฬาไทย",MONOMAX1 (streamx-web)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://stream-x.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-aismax01_480/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4680.png" group-title="ช่องกีฬาไทย",MONOMAX1 (Worldcup2026)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://yyi7tewa2x.3ppnkog.com/xstream/monomax-1/playlist.m3u8
+#EXTVLCOPT:http-referrer=:https://dooballland.com/
+https://cdn1.amazaa.live/dbl//monomax-sports1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4681.png" group-title="ช่องกีฬาไทย",MONOMAX2 (warpdooball)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-sports2/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4681.png" group-title="ช่องกีฬาไทย",MONOMAX2 (github)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4681.png" group-title="ช่องกีฬาไทย",MONOMAX2 (dooballland)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-http://6395online.com:8080/live/Iptv6988/0905692638/391423.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4681.png" group-title="ช่องกีฬาไทย",MONOMAX2 (88-hd)
-#EXTVLCOPT:http-referrer=:https://www.88-hd.com/
-https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4681.png" group-title="ช่องกีฬาไทย",MONOMAX2 (streamx-web)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://stream-x.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-aismax02_480/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4681.png" group-title="ช่องกีฬาไทย",MONOMAX2 (Worldcup2026)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://yyi7tewa2x.3ppnkog.com/xstream/monomax-2/playlist.m3u8
+#EXTVLCOPT:http-referrer=:https://dooballland.com/
+https://cdn1.amazaa.live/dbl//monomax-sports2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4682.png" group-title="ช่องกีฬาไทย",MONOMAX3 (warpdooball) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-sports3/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4682.png" group-title="ช่องกีฬาไทย",MONOMAX3 (github)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4682.png" group-title="ช่องกีฬาไทย",MONOMAX3 (dooballland)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-http://6395online.com:8080/live/Iptv6988/0905692638/391424.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4682.png" group-title="ช่องกีฬาไทย",MONOMAX3 (88-hd)
-#EXTVLCOPT:http-referrer=:https://www.88-hd.com/
-https://www.livedoomovies.com:4431/Monomax_PL_3HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4682.png" group-title="ช่องกีฬาไทย",MONOMAX3 (Worldcup2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://yyi7tewa2x.3ppnkog.com/xstream/monomax-3/playlist.m3u8
+#EXTVLCOPT:http-referrer=:https://dooballland.com/
+https://cdn1.amazaa.live/dbl//monomax-sports3/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4683.png" group-title="ช่องกีฬาไทย",MONOMAX4 (warpdooball) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-sports4/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4683.png" group-title="ช่องกีฬาไทย",MONOMAX4 (github)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4683.png" group-title="ช่องกีฬาไทย",MONOMAX4 (dooballland)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-http://6395online.com:8080/live/Iptv6988/0905692638/398282.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4683.png" group-title="ช่องกีฬาไทย",MONOMAX4 (88-hd) 
-#EXTVLCOPT:http-referrer=:https://www.88-hd.com/
-https://www.livedoomovies.com:4431/Monomax_PL_4HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4683.png" group-title="ช่องกีฬาไทย",MONOMAX4 (Worldcup2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
-https://live.livedoomovies.com:4433/api/hls/live/82290/playlist.m3u8
+#EXTVLCOPT:http-referrer=:https://dooballland.com/
+https://cdn1.amazaa.live/dbl//monomax-sports4/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4684.png" group-title="ช่องกีฬาไทย",MONOMAX5 (warpdooball) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-sports5/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4684.png" group-title="ช่องกีฬาไทย",MONOMAX5 (github)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4684.png" group-title="ช่องกีฬาไทย",MONOMAX5 (dooballland)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-http://6395online.com:8080/live/Iptv6988/0905692638/398289.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4684.png" group-title="ช่องกีฬาไทย",MONOMAX5 (streamx-web)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-http://119.59.118.168/live/ch33/178147261323967/index.m3u8
+#EXTVLCOPT:http-referrer=:https://dooballland.com/
+https://cdn1.amazaa.live/dbl//monomax-sports5/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4685.png" group-title="ช่องกีฬาไทย",MONOMAX6 (warpdooball) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-sports6/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4685.png" group-title="ช่องกีฬาไทย",MONOMAX6 (github)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4685.png" group-title="ช่องกีฬาไทย",MONOMAX6 (dooballland)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-http://6395online.com:8080/live/Iptv6988/0905692638/398290.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4685.png" group-title="ช่องกีฬาไทย",MONOMAX6 (streamx-web)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-http://119.59.118.168/live/ch44/178147261323967/index.m3u8
+#EXTVLCOPT:http-referrer=:https://dooballland.com/
+https://cdn1.amazaa.live/dbl//monomax-sports6/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4686.png" group-title="ช่องกีฬาไทย",MONOMAX7 (warpdooball)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-sports7/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4686.png" group-title="ช่องกีฬาไทย",MONOMAX7 (github)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4686.png" group-title="ช่องกีฬาไทย",MONOMAX7 (dooballland)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-http://6395online.com:8080/live/Iptv6988/0905692638/398291.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4686.png" group-title="ช่องกีฬาไทย",MONOMAX7 (streamx-web)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-http://119.59.118.168/live/ch45/178147261323967/index.m3u8
+#EXTVLCOPT:http-referrer=:https://dooballland.com/
+https://cdn1.amazaa.live/dbl//monomax-sports7/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4687.png" group-title="ช่องกีฬาไทย",MONOMAX8 (warpdooball)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-sports8/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4687.png" group-title="ช่องกีฬาไทย",MONOMAX8 (github)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4687.png" group-title="ช่องกีฬาไทย",MONOMAX8 (dooballland)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-http://6395online.com:8080/live/Iptv6988/0905692638/398292.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lolll.lol/images/channel-logo/tv-station--4687.png" group-title="ช่องกีฬาไทย",MONOMAX8 (streamx-web)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://stream-x.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-aismax08_480/chunks.m3u8
+#EXTVLCOPT:http-referrer=:https://dooballland.com/
+https://cdn1.amazaa.live/dbl//monomax-sports8/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2025/10/27/ebbad850-b303-11f0-b265-23dfa726a2d7_webp_original.webp" group-title="ช่องกีฬาไทย",TruePremierFootball3 (warpdooball)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
