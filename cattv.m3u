@@ -90,7 +90,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="ช่องทีวีดิจิตอล", PPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0022/DNF/V0022.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=1y2UKKgTCvCrjbyEXgqcUsbxt7cY%2FjimvyAJf5eiaF8nwJx7XAoPSFBGQTPdbMko
+https://mp3.ovp.ais.th:7111/live/eds/V0022/DNF/V0022.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=rpWOdFcqZMwqD3Fj%2Bk8oeWYviXUMiHycPEGMi2xp4UEnwJx7XAoPSFBGQTPdbMko
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TOPNEWS.PNG" group-title="ช่องทีวีดิจิตอล", TopNews
 http://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png" group-title="ช่องทีวีดิจิตอล", News1
@@ -103,7 +103,7 @@ http://live.bangkokstream.com:19370/suwannabhumi/suwannabhumi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="ช่องบันเทิง", HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0114/DNF/V0114.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=1y2UKKgTCvCrjbyEXgqcUlPR6sXt9NcwtPZcMv%2BCISjIKs%2BVKI828STdaRXT8zPM
+https://mp3.ovp.ais.th:7111/live/eds/V0114/DNF/V0114.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=rpWOdFcqZMwqD3Fj%2Bk8oeWYviXUMiHycPEGMi2xp4UEnwJx7XAoPSFBGQTPdbMko
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง", HBOHits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
