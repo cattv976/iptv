@@ -90,7 +90,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="ช่องทีวีดิจิตอล", PPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0022/DNF/V0022.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=rpWOdFcqZMwqD3Fj%2Bk8oeWYviXUMiHycPEGMi2xp4UEnwJx7XAoPSFBGQTPdbMko
+https://mp3.ovp.ais.th:7111/live/eds/V0022/DNF/V0022.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=rpWOdFcqZMwqD3Fj%2Bk8oeWjy9FxwGs%2BU0VasQDu%2B9r0QJ0pRVZYwQ96lDMEGR%2FHg
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TOPNEWS.PNG" group-title="ช่องทีวีดิจิตอล", TopNews
 http://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png" group-title="ช่องทีวีดิจิตอล", News1
@@ -103,15 +103,15 @@ http://live.bangkokstream.com:19370/suwannabhumi/suwannabhumi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="ช่องบันเทิง", HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0114/DNF/V0114.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=rpWOdFcqZMwqD3Fj%2Bk8oeWZ3Y%2BsuGVFGj1SyqQTCFltWYFKqip6OOzgzyIfCkJx8
+https://mp3.ovp.ais.th:7111/live/eds/V0114/DNF/V0114.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=rpWOdFcqZMwqD3Fj%2Bk8oefuYpIJtqz0R17royWsQ2LFWYFKqip6OOzgzyIfCkJx8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง", HBOHits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0116/DNF/V0116.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=rpWOdFcqZMwqD3Fj%2Bk8oeebysxgCoe0nHMRtaVUXmE5YXD0qc7jNeKGIcB68DAA2
+https://mp3.ovp.ais.th:7111/live/eds/V0116/DNF/V0116.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=rpWOdFcqZMwqD3Fj%2Bk8oed6QV5DTfI17S4baO9nv1lzDGy51uerFV%2FnjNAcUrWRN
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="ช่องบันเทิง", HBOSignature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0117/DNF/V0117.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=rpWOdFcqZMwqD3Fj%2Bk8oeWZ3Y%2BsuGVFGj1SyqQTCFltWYFKqip6OOzgzyIfCkJx8
+https://mp3.ovp.ais.th:7111/live/eds/V0117/DNF/V0117.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=rpWOdFcqZMwqD3Fj%2Bk8oeSXn0q0jPV1vJEPXakYHL7Bo7oAAzbXiX64InLgJfKMv
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="ช่องบันเทิง", HBOFamily
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -127,15 +127,15 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="ช่องบันเทิง", Rock-Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0165/DNF/V0165.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=rpWOdFcqZMwqD3Fj%2Bk8oeVkLV6bvtutr%2BE9z%2Btl%2BKtnIKs%2BVKI828STdaRXT8zPM
+https://mp3.ovp.ais.th:7111/live/eds/V0165/DNF/V0165.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=rpWOdFcqZMwqD3Fj%2Bk8oea9RcD9VJEO7UJ41rQ2VHXRo7oAAzbXiX64InLgJfKMv
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="ช่องบันเทิง", ROCKAction
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0166/DNF/V0166.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=rpWOdFcqZMwqD3Fj%2Bk8oeQvnJDFT0%2FleSwfxYe7ATudYXD0qc7jNeKGIcB68DAA2
+https://mp3.ovp.ais.th:7111/live/eds/V0166/DNF/V0166.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=rpWOdFcqZMwqD3Fj%2Bk8oeQ5zasANxQJMszk2%2BtJKsmAnwJx7XAoPSFBGQTPdbMko
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ช่องบันเทิง", Warnertv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/X105/DNF/X105.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=rpWOdFcqZMwqD3Fj%2Bk8oecqWeTbJNSG90GsXbv6VcyRlaUUK%2F9yFZakzXF2Pxgmj
+https://mp3.ovp.ais.th:7111/live/eds/X105/DNF/X105.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=rpWOdFcqZMwqD3Fj%2Bk8oeZVJwstgnenMDlWh4MechWBlaUUK%2F9yFZakzXF2Pxgmj
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="ช่องบันเทิง", Axn
 http://6395online.com:8080/live/Iptv6988/0905692638/129.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง", trueTHAIFILM
@@ -195,7 +195,7 @@ http://49.0.64.96:8007/PING
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="ช่องสารคดี", Discovery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0180/DNF/V0180.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=rpWOdFcqZMwqD3Fj%2Bk8oeb7YJEYGolElGWeGaWrnZRjDGy51uerFV%2FnjNAcUrWRN
+https://mp3.ovp.ais.th:7111/live/eds/V0180/DNF/V0180.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=rpWOdFcqZMwqD3Fj%2Bk8oeSTITH61sUlC9Q1lm3DbvTMnwJx7XAoPSFBGQTPdbMko
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ช่องสารคดี", DiscoveryAsia
 http://6395online.com:8080/live/Iptv6988/0905692638/274.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-history.png" group-title="ช่องสารคดี", History
@@ -247,11 +247,11 @@ https://edge-1.m-fixer.net:8092/stream/ais/animalshow/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="ช่องสารคดี", Khong Dee Thailand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0154/DNF/V0154.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=rpWOdFcqZMwqD3Fj%2Bk8oedASGW3wVTtVerkvAE670gX41Mc3QtBI2rA5vZRI7S2e
+https://mp3.ovp.ais.th:7111/live/eds/V0154/DNF/V0154.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=rpWOdFcqZMwqD3Fj%2Bk8oeeE4zwEuhoHynSAPCpKnhvuN1N4s%2BnoXjoIsItGZ3XiV
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="ช่องสารคดี", Thainess
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0155/DNF/V0155.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=rpWOdFcqZMwqD3Fj%2Bk8oed55PbtWHZAzEvCF8yKT0zr41Mc3QtBI2rA5vZRI7S2e
+https://mp3.ovp.ais.th:7111/live/eds/V0155/DNF/V0155.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=rpWOdFcqZMwqD3Fj%2Bk8oeXRNAfVcZ0YYg5xq66g3T0Jo7oAAzbXiX64InLgJfKMv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png" group-title="ช่องสารคดี", AMAZING
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://49.0.64.96:8007/AMAZING
