@@ -103,15 +103,15 @@ http://live.bangkokstream.com:19370/suwannabhumi/suwannabhumi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="ช่องบันเทิง", HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0114/DNF/V0114.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=1y2UKKgTCvCrjbyEXgqcUvbELRmMT1X%2FoeLyjcwbhQ1YXD0qc7jNeKGIcB68DAA2
+https://mp3.ovp.ais.th:7111/live/eds/V0114/DNF/V0114.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=1y2UKKgTCvCrjbyEXgqcUnwV9ZYbio8X9bFKAo5kAHmX5QD7JqYPRtlDYNToV%2BxV
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง", HBOHits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0116/DNF/V0116.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=1y2UKKgTCvCrjbyEXgqcUjdiy9qpibD%2FooBsPyKYU3tYXD0qc7jNeKGIcB68DAA2
+https://mp3.ovp.ais.th:7111/live/eds/V0116/DNF/V0116.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=1y2UKKgTCvCrjbyEXgqcUv3RI5oO%2BA5f4qYJE84Pknho7oAAzbXiX64InLgJfKMv
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="ช่องบันเทิง", HBOSignature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0117/DNF/V0117.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=1y2UKKgTCvCrjbyEXgqcUm7H%2FqdKx152vH32gUkVCXEa3pz%2BMmCJwPP2XBMshS%2F%2F
+https://mp3.ovp.ais.th:7111/live/eds/V0117/DNF/V0117.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=1y2UKKgTCvCrjbyEXgqcUsDXj7lD31TyHUMwIHwCiLSwVHFRcBnoxj7%2FSXd1flSp
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="ช่องบันเทิง", HBOFamily
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -127,15 +127,15 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="ช่องบันเทิง", Rock-Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0165/DNF/V0165.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=1y2UKKgTCvCrjbyEXgqcUqqbSL2%2F0t48M8JEMADVAmjDGy51uerFV%2FnjNAcUrWRN
+https://mp3.ovp.ais.th:7111/live/eds/V0165/DNF/V0165.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=1y2UKKgTCvCrjbyEXgqcUoAjwcEa36p5oPpmNAhJgWInwJx7XAoPSFBGQTPdbMko
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="ช่องบันเทิง", ROCKAction
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0166/DNF/V0166.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=1y2UKKgTCvCrjbyEXgqcUndR6lDpcM2qiCQnN9FljVsa3pz%2BMmCJwPP2XBMshS%2F%2F
+https://mp3.ovp.ais.th:7111/live/eds/V0166/DNF/V0166.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=1y2UKKgTCvCrjbyEXgqcUj8QqUt1wqRhepf5yNJLAxZWYFKqip6OOzgzyIfCkJx8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ช่องบันเทิง", Warnertv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/X105/DNF/X105.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=1y2UKKgTCvCrjbyEXgqcUi5vAW2U4QvlVaitYZNhSOFlaUUK%2F9yFZakzXF2Pxgmj
+https://mp3.ovp.ais.th:7111/live/eds/X105/DNF/X105.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=1y2UKKgTCvCrjbyEXgqcUguvn2sUfLv0hqYceW0fNXJlaUUK%2F9yFZakzXF2Pxgmj
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="ช่องบันเทิง", Axn
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattv976/movies/raw/refs/heads/main/trueaxn.m3u8
@@ -250,11 +250,11 @@ https://edge-1.m-fixer.net:8092/stream/ais/animalshow/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="ช่องสารคดี", Khong Dee Thailand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0154/DNF/V0154.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=1y2UKKgTCvCrjbyEXgqcUkrk5uKV46qxn14GfKFE0YKX5QD7JqYPRtlDYNToV%2BxV
+https://mp3.ovp.ais.th:7111/live/eds/V0154/DNF/V0154.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=1y2UKKgTCvCrjbyEXgqcUkIJNa4CaSzWyHClwK4JgRVYXD0qc7jNeKGIcB68DAA2
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="ช่องสารคดี", Thainess
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0155/DNF/V0155.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=1y2UKKgTCvCrjbyEXgqcUmoWCuN8S1M84Vkvq7ZDQ00T3iFKQyDXya1p%2Ffcx%2B%2BXO
+https://mp3.ovp.ais.th:7111/live/eds/V0155/DNF/V0155.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=1y2UKKgTCvCrjbyEXgqcUgHOujQjQvRSHBOc00%2BH85WwVHFRcBnoxj7%2FSXd1flSp
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png" group-title="ช่องสารคดี", AMAZING
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://49.0.64.96:8007/AMAZING
@@ -438,78 +438,14 @@ https://cdn1.googlecdnforstreaming.live/live/spotv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/spotv2/playlist.m3u8
 
-#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://cdn.imgchest.com/files/a3ee916b917f.png", AsianGames1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; TrueID TV Build/PTT1.181126.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://warpdooball.net/ 
-https://cdn1.googlecdnforstreaming.live/live/event20/playlist.m3u8
-#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://cdn.imgchest.com/files/a3ee916b917f.png", AsianGames1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://dooballland.com/
-https://cdn1.amazaa.live/dbl/event20/chunks.m3u8
-#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://cdn.imgchest.com/files/a3ee916b917f.png", AsianGames2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; TrueID TV Build/PTT1.181126.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://warpdooball.net/ 
-https://cdn1.googlecdnforstreaming.live/live/event21/playlist.m3u8
-#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://cdn.imgchest.com/files/a3ee916b917f.png", AsianGames2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://dooballland.com/
-https://cdn1.amazaa.live/dbl/event21/chunks.m3u8
-#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://cdn.imgchest.com/files/a3ee916b917f.png", AsianGames3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; TrueID TV Build/PTT1.181126.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://warpdooball.net/ 
-https://cdn1.googlecdnforstreaming.live/live/event22/playlist.m3u8
-#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://cdn.imgchest.com/files/a3ee916b917f.png", AsianGames3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://dooballland.com/
-https://cdn1.amazaa.live/dbl/event22/chunks.m3u8
-#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://cdn.imgchest.com/files/a3ee916b917f.png", AsianGames4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; TrueID TV Build/PTT1.181126.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://warpdooball.net/ 
-https://cdn1.googlecdnforstreaming.live/live/event5/playlist.m3u8
-#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://cdn.imgchest.com/files/a3ee916b917f.png", AsianGames4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://dooballland.com/
-https://cdn1.amazaa.live/dbl/event5/chunks.m3u8
-#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://cdn.imgchest.com/files/a3ee916b917f.png", AsianGames5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; TrueID TV Build/PTT1.181126.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://warpdooball.net/ 
-https://cdn1.googlecdnforstreaming.live/live/event13/playlist.m3u8
-#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://cdn.imgchest.com/files/a3ee916b917f.png", AsianGames5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://dooballland.com/
-https://cdn1.amazaa.live/dbl/event13/chunks.m3u8
-#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://cdn.imgchest.com/files/a3ee916b917f.png", AsianGames6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; TrueID TV Build/PTT1.181126.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://warpdooball.net/ 
-https://cdn1.googlecdnforstreaming.live/live/event18/playlist.m3u8
-#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://cdn.imgchest.com/files/a3ee916b917f.png", AsianGames6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://dooballland.com/
-https://cdn1.amazaa.live/dbl/event18/chunks.m3u8
-#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://cdn.imgchest.com/files/a3ee916b917f.png", AsianGames7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; TrueID TV Build/PTT1.181126.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://warpdooball.net/ 
-https://cdn1.googlecdnforstreaming.live/live/event27/playlist.m3u8
-#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://cdn.imgchest.com/files/a3ee916b917f.png", AsianGames7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://dooballland.com/
-https://cdn1.amazaa.live/dbl/event27/chunks.m3u8
-#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://cdn.imgchest.com/files/a3ee916b917f.png", AsianGames8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; TrueID TV Build/PTT1.181126.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://warpdooball.net/ 
-https://cdn1.googlecdnforstreaming.live/live/event26/playlist.m3u8
-#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://cdn.imgchest.com/files/a3ee916b917f.png", AsianGames8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://dooballland.com/
-https://cdn1.amazaa.live/dbl/event26/chunks.m3u8
-#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://cdn.imgchest.com/files/a3ee916b917f.png", AsianGames9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; TrueID TV Build/PTT1.181126.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://warpdooball.net/ 
-https://cdn1.googlecdnforstreaming.live/live/event25/playlist.m3u8
-#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://cdn.imgchest.com/files/a3ee916b917f.png", AsianGames9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://dooballland.com/
-https://cdn1.amazaa.live/dbl/event25/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20260629121703060032.png"group-title="Aisplaysports", Playsports90
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/BL001/DNF/BL001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=1y2UKKgTCvCrjbyEXgqcUovwUXuTZvGt6%2FRe6k3C%2FdvDGy51uerFV%2FnjNAcUrWRN
+#EXTINF:-1 tvg-id="" tvg-logo="https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20260806091703064654.png"group-title="Aisplaysports", Playsports95
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/BL006/DNF/BL006.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=1y2UKKgTCvCrjbyEXgqcUj0jUd0vHG6e7IBXkg96tEz41Mc3QtBI2rA5vZRI7S2e
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvFW6Krt0Q_G3ahG6I3_T2tifz9IEftLAdqw&s" group-title="ช่องกีฬาต่างประทศ",now SPORTS PREMIER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
